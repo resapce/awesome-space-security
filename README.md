@@ -1,7 +1,7 @@
 # awesome-space-security
 
 ---
-### Reseach Papers 
+### Research Papers 
 - [Security and Privacy Issues oF
 Satellite Communication in the
 Aviation Domain](https://www.cs.ox.ac.uk/files/13686/CyCon_2022_baselt.pdf)
